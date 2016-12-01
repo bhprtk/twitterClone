@@ -7,6 +7,6 @@ export default class Tweet extends React.Component {
 				<time>{moment(this.props.created_at).fromNow()}</time>
 				<p>{this.props.body}</p>
 			</li>
-		)
+		);
 	}
 }
