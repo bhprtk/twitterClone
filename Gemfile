@@ -14,6 +14,8 @@ gem 'uglifier', '>= 1.3.0'
 
 
 gem 'react-rails'
+gem 'devise'
+
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
